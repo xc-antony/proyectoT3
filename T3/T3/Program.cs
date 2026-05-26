@@ -52,9 +52,7 @@ namespace T3
             } while (op != 4);
         }
 
-        // =============================================
-        // MÉTODO 1: MOSTRAR MENÚ PRINCIPAL
-        // =============================================
+
         static int MostrarMenu()
         {
             Console.ResetColor();
